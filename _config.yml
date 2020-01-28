@@ -1,7 +1,7 @@
 # Site settings
 title:          잼킷 개발 레시피 모음
-description:    "잼킷으로 미니앱을 개발할 때 바로 활용 가능한 레시피 모음"
-url:            "https://jamkit-recipes-ko.github.io"
+description:    잼킷으로 미니앱을 개발할 때 바로 활용 가능한 레시피 모음
+url:            https://jamkit-recipes-ko.github.io
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
